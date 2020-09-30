@@ -67,7 +67,7 @@ _Note: Since this project is setup to deploy via Heroku and their buildpacks, a 
     - `STRIPE_SECRET`: _`sk_test_4TYeUPbdKFGeJUXBVJFoI...`_
 
 ## Contributing
-This project's git flow is based on [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+This unprecedented project's git flow is based on [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 1. Find or Submit Bounty
 2. Make a Feature Branch from `develop`
